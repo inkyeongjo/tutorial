@@ -1,2 +1,1 @@
-puts "Hello World"
-puts "hihi add"
+1 test
