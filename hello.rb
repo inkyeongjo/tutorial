@@ -1,5 +1,6 @@
 puts "hello World"
 puts "hihihihihihi"
+<<<<<<< HEAD
 puts "hihihihihihia"
 puts "hihihihihihib"
 puts "hihihihihihib"
@@ -15,3 +16,16 @@ puts "hihihihihihib"
 puts "hihihihihihid"
 puts "hihihihihihie"
 puts "hihihihihihi4"
+=======
+puts "hello22222"
+puts "hello33322"
+puts "hello32222"
+puts "hello42222"
+puts "hello42222"
+puts "hello62222"
+puts "hello52222"
+puts "hello62222"
+puts "hello92222"
+puts "hello62222"
+puts "hello52222"
+>>>>>>> origin/test
